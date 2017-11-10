@@ -19,6 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "normalize-css": "normalize.css#^7.0.0"
+    "normalize-css": "normalize.css#^7.0.0",
+    "css-spinners": "^2.2.0"
   }
 }
